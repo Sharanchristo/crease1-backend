@@ -1,0 +1,11 @@
+package com.example.user.domain;
+
+public enum PaymentStatus {
+
+
+	PENDING,
+    PROCESSING,
+    COMPLETED,
+    FAILED
+
+}
